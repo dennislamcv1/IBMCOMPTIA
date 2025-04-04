@@ -1,5 +1,6 @@
-# IBMCompTIA
-## Preparation for CompTIA A+ Certification Specialization
+# IBMCOMPTIA 
+
+## Preparation for CompTIA A+ Certification Specialization (3 course series)
 
 This specialization is your gateway to a thriving career in the dynamic field of Information Technology (IT). In today’s technology-driven world, IT professionals equipped with the knowledge and expertise to maintain, troubleshoot, and secure computer systems are in high demand. This program consists of three comprehensive courses tailored to provide learners with the skills, knowledge, and confidence needed to excel in the IT industry.
 
